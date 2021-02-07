@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ledbe\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ledbe\\.nuget\\packages"
+    ]
+  }
+}
